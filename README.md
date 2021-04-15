@@ -24,16 +24,16 @@ I have a ton of python projects around , and now that i whant to start using GIT
  	* N for diferent Resolution
   		* Introduce X and Y Multiplication 
 
-#Pikachu Normal Picture
+# Pikachu Normal Picture
 
 ![Pika](/images/m.png)
 
-#Pikachu in Ascii
+# Pikachu in Ascii
 
-![PikaAscii](/images/proof.PNG)
+![PikaAscii](/images/result.PNG)
 
-#Pikachu Zoom
+# Pikachu Zoom
 
-![PikaAsciiZoom](/images/result.PNG)
+![PikaAsciiZoom](/images/proof.PNG)
 
-This Was A Simple Project That Took Me Minutes To Build, But I Love The Results In Ascii!
+##This Was A Simple Project That Took Me Minutes To Build, But I Love The Results In Ascii!
