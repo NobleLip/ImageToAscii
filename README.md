@@ -36,4 +36,4 @@ I have a ton of python projects around , and now that i whant to start using GIT
 
 ![PikaAsciiZoom](/images/proof.PNG)
 
-##This Was A Simple Project That Took Me Minutes To Build, But I Love The Results In Ascii!
+## This Was A Simple Project That Took Me Minutes To Build, But I Love The Results In Ascii!
