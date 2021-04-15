@@ -23,11 +23,17 @@ I have a ton of python projects around , and now that i whant to start using GIT
  	* Y for full Resolution
  	* N for diferent Resolution
   		* Introduce X and Y Multiplication 
+
 #Pikachu Normal Picture
+
 ![Pika](/images/m.png)
+
 #Pikachu in Ascii
+
 ![PikaAscii](/images/proof.PNG)
+
 #Pikachu Zoom
+
 ![PikaAsciiZoom](/images/result.PNG)
 
 This Was A Simple Project That Took Me Minutes To Build, But I Love The Results In Ascii!
