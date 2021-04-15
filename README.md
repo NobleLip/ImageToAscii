@@ -6,10 +6,14 @@
  |___|_| |_| |_|\__,_|\__, |\___||_|\___/_/   \_\___/\___|_|_|
                       |___/
 ```
+# This Was A Simple Project That Took Me Minutes To Build, But I Love The Results In Ascii!
+
+
 
 # This is my first project on GITHUB
 
 I have a ton of python projects around , and now that i whant to start using GITHUB i will learn more about this platform by sharing my projects!
+
 
 ## About This Project
 
@@ -36,4 +40,3 @@ I have a ton of python projects around , and now that i whant to start using GIT
 
 ![PikaAsciiZoom](/images/proof.PNG)
 
-## This Was A Simple Project That Took Me Minutes To Build, But I Love The Results In Ascii!
