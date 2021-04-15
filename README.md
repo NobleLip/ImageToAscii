@@ -13,6 +13,15 @@ I have a ton of python projects around , and now that i whant to start using GIT
 
 ## About This Project
 
-*It is a Simple Project it simple steps
- *Add name of Your image
- *Add the dimentions that u whant :+1: :sparkles:
+* It is a Simple Project it simple steps
+ * Add name of Your image
+ * Add the dimentions that u whant :+1: :sparkles:
+
+* Example
+ * py im.py
+ * images/m.png
+ * Y for full Resolution
+ * N for diferent Resolution
+  * Introduce X and Y Multiplication 
+
+![Pika](/images/m.png)
