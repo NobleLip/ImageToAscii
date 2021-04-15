@@ -7,4 +7,12 @@
                       |___/
 ```
 
-### This is my first project on GITHUB
+# This is my first project on GITHUB
+
+I have a ton of python projects around , and now that i whant to start using GITHUB i will learn more about this platform by sharing my projects!
+
+## About This Project
+
+*It is a Simple Project it simple steps
+ *Add name of Your image
+ *Add the dimentions that u whant :+1: :sparkles:
